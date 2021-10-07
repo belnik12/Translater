@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Translater_for_AM:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Translater_for_AM_jar</output-path>
+    <root id="archive" name="Translater_for_AM.jar">
+      <element id="module-output" name="Translater_for_AM" />
+    </root>
+  </artifact>
+</component>
